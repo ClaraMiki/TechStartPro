@@ -4,6 +4,7 @@ O projeto é composto por BackEnd e FrontEnd.
 
 # Requisitos
 Node.js versão 12.18.3
+
 Yarn versão 1.24.4
 
 # Configuração
